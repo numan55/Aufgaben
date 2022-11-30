@@ -1,4 +1,4 @@
-package AA;
+package aufgaben;
 
 public class Aufgabe_4 {
 

@@ -9,7 +9,7 @@ public class Aufgabe_1 {
 			System.out.print(i);
 			if (i != 15)
 				System.out.print(",");
-			//test
+			
 
 		}
 	}
